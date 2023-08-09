@@ -1,0 +1,8 @@
+name: prj
+
+environment:
+  sdk: ^3.0.7
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.8.0
